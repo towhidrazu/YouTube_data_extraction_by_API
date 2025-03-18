@@ -1,5 +1,5 @@
 # YouTube data extraction and analysis by API
-
+![YouTube](https://github.com/towhidrazu/YouTube_data_extraction_by_API/blob/main/YouTube%20Data%20Extraction%20by%20API.png)
 This project focuses on social media data analytics, specifically analyzing data extracted from YouTube using the YouTube API. This is a programmatic access to YouTube's rich dataset to derive actionable insights and demonstrate the power of API-driven data analytics. The main objectives include:
 1.	Data Extraction: Pulling data directly from YouTube using the YouTube API, such as video metadata, comments, likes, and view counts.
 2.	Data Preprocessing: Cleaning and structuring the extracted data to prepare it for analysis.
